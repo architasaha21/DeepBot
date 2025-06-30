@@ -24,9 +24,3 @@ DeepBot is a lightweight, responsive chatbot interface built using **HTML**, **C
 
 ---
 
-## 📸 Preview
-
-> [🔗 Live Demo](https://your-live-demo-link.com)
-
----
-
